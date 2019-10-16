@@ -1,0 +1,71 @@
+02/15/19 15:29
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+02/22/19 15:27
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+02/25/19 21:57
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (15 points):
+Score += 15
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Amazing!
+
+-------------------------------------------------------------------------------
+

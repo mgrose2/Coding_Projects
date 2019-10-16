@@ -1,0 +1,59 @@
+03/01/19 14:18
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+The dark spots in the magnitude graph show us there is a root. The angle graph shows us the order of the root by the number of cycles of colors aroround the root.
+Score += 3
+
+Problem 3 (5 points):
+Score += 0
+
+Problem 4 (10 points):
+Score += 0
+
+Problem 5 (10 points):
+Score += 0
+
+Problem 6 (10 points):
+Score += 0
+
+Code Quality (5 points):
+Put comments in your plot_complex function
+Score += 0
+
+Total score: 8/50 = 16.0%
+
+-------------------------------------------------------------------------------
+
+03/11/19 16:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+The second function has a total of 7 zeroes--3 have multiplicity 1 and 2 have multiplicity 2. For the third function one of the poles has multiplicity 2 and rest are multiplicity 1.
+Score += 8
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,642 @@
+09/05/19 14:58
+
+File 'regular_expressions.py' not found!
+
+-------------------------------------------------------------------------------
+
+09/05/19 15:24
+
+File 'regular_expressions.py' not found!
+
+-------------------------------------------------------------------------------
+
+09/05/19 17:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (20 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob6()
+Score += 0
+
+Total score: 15/50 = 30.0%
+
+-------------------------------------------------------------------------------
+
+09/11/19 13:50
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+incorrect birthday
+	Correct response: '01/11/2067'
+	Student response: '01/11/67'
+incorrect birthday
+	Correct response: '07/13/2045'
+	Student response: '07/13/45'
+incorrect birthday
+	Correct response: '01/31/2033'
+	Student response: '01/31/33'
+incorrect birthday
+	Correct response: '12/17/2076'
+	Student response: '12/17/76'
+incorrect birthday
+	Correct response: '10/05/2039'
+	Student response: '10/05/39'
+incorrect birthday
+	Correct response: '10/25/2051'
+	Student response: '10/25/51'
+incorrect birthday
+	Correct response: '11/30/2081'
+	Student response: '11/30/81'
+incorrect birthday
+	Correct response: '05/25/2054'
+	Student response: '05/25/54'
+incorrect birthday
+	Correct response: '08/25/2078'
+	Student response: '08/25/78'
+incorrect birthday
+	Correct response: '01/01/2099'
+	Student response: '01/01/99'
+incorrect birthday
+	Correct response: '06/21/2077'
+	Student response: '06/21/77'
+incorrect birthday
+	Correct response: '01/06/2047'
+	Student response: '01/06/47'
+incorrect birthday
+	Correct response: '09/27/2081'
+	Student response: '09/27/81'
+incorrect birthday
+	Correct response: '06/14/2094'
+	Student response: '06/14/94'
+incorrect birthday
+	Correct response: '07/02/2075'
+	Student response: '07/02/75'
+incorrect birthday
+	Correct response: '03/26/2093'
+	Student response: '03/26/93'
+incorrect birthday
+	Correct response: '11/04/2041'
+	Student response: '11/04/41'
+incorrect birthday
+	Correct response: '07/19/2084'
+	Student response: '07/19/84'
+incorrect birthday
+	Correct response: '04/09/2056'
+	Student response: '04/09/56'
+incorrect birthday
+	Correct response: '11/20/2047'
+	Student response: '11/20/47'
+incorrect birthday
+	Correct response: '12/21/2066'
+	Student response: '12/21/66'
+incorrect birthday
+	Correct response: '02/17/2093'
+	Student response: '02/17/93'
+incorrect birthday
+	Correct response: '07/25/2043'
+	Student response: '07/25/43'
+incorrect birthday
+	Correct response: '01/10/2049'
+	Student response: '01/10/49'
+incorrect birthday
+	Correct response: '07/20/2055'
+	Student response: '07/20/55'
+incorrect birthday
+	Correct response: '02/06/2035'
+	Student response: '02/06/35'
+incorrect birthday
+	Correct response: '10/28/2056'
+	Student response: '10/28/56'
+incorrect birthday
+	Correct response: '06/06/2036'
+	Student response: '06/06/36'
+incorrect birthday
+	Correct response: '02/02/2058'
+	Student response: '02/02/58'
+incorrect birthday
+	Correct response: '05/27/2047'
+	Student response: '05/27/47'
+incorrect birthday
+	Correct response: '01/19/2069'
+	Student response: '01/19/69'
+incorrect birthday
+	Correct response: '02/04/2049'
+	Student response: '02/04/49'
+incorrect birthday
+	Correct response: '10/05/2035'
+	Student response: '10/05/35'
+incorrect birthday
+	Correct response: '10/01/2047'
+	Student response: '10/01/47'
+incorrect birthday
+	Correct response: '02/28/2037'
+	Student response: '02/28/37'
+incorrect birthday
+	Correct response: '12/12/2044'
+	Student response: '12/12/44'
+incorrect birthday
+	Correct response: '04/14/2073'
+	Student response: '04/14/73'
+incorrect birthday
+	Correct response: '04/03/2067'
+	Student response: '04/03/67'
+incorrect birthday
+	Correct response: '05/26/2087'
+	Student response: '05/26/87'
+incorrect birthday
+	Correct response: '07/10/2091'
+	Student response: '07/10/91'
+incorrect birthday
+	Correct response: '01/29/2065'
+	Student response: '01/29/65'
+incorrect birthday
+	Correct response: '06/28/2080'
+	Student response: '06/28/80'
+incorrect birthday
+	Correct response: '02/14/2096'
+	Student response: '02/14/96'
+incorrect birthday
+	Correct response: '08/22/2057'
+	Student response: '08/22/57'
+incorrect birthday
+	Correct response: '11/17/2075'
+	Student response: '11/17/75'
+incorrect birthday
+	Correct response: '11/19/2077'
+	Student response: '11/19/77'
+incorrect birthday
+	Correct response: '07/14/2059'
+	Student response: '07/14/59'
+incorrect birthday
+	Correct response: '12/13/2074'
+	Student response: '12/13/74'
+incorrect birthday
+	Correct response: '01/25/2033'
+	Student response: '01/25/33'
+incorrect birthday
+	Correct response: '04/17/2060'
+	Student response: '04/17/60'
+incorrect birthday
+	Correct response: '12/14/2054'
+	Student response: '12/14/54'
+incorrect birthday
+	Correct response: '02/18/2061'
+	Student response: '02/18/61'
+incorrect birthday
+	Correct response: '12/13/2070'
+	Student response: '12/13/70'
+incorrect birthday
+	Correct response: '06/12/2053'
+	Student response: '06/12/53'
+incorrect birthday
+	Correct response: '11/03/2085'
+	Student response: '11/03/85'
+incorrect birthday
+	Correct response: '03/01/2062'
+	Student response: '03/01/62'
+incorrect birthday
+	Correct response: '01/23/2093'
+	Student response: '01/23/93'
+incorrect birthday
+	Correct response: '03/03/2056'
+	Student response: '03/03/56'
+incorrect birthday
+	Correct response: '01/25/2060'
+	Student response: '01/25/60'
+incorrect birthday
+	Correct response: '01/09/2073'
+	Student response: '01/09/73'
+incorrect birthday
+	Correct response: '11/13/2090'
+	Student response: '11/13/90'
+incorrect birthday
+	Correct response: '08/10/2065'
+	Student response: '08/10/65'
+incorrect birthday
+	Correct response: '09/19/2040'
+	Student response: '09/19/40'
+incorrect birthday
+	Correct response: '05/25/2068'
+	Student response: '05/25/68'
+incorrect birthday
+	Correct response: '03/14/2051'
+	Student response: '03/14/51'
+incorrect birthday
+	Correct response: '03/03/2043'
+	Student response: '03/03/43'
+incorrect birthday
+	Correct response: '07/04/2048'
+	Student response: '07/04/48'
+incorrect birthday
+	Correct response: '11/25/2091'
+	Student response: '11/25/91'
+incorrect birthday
+	Correct response: '07/07/2052'
+	Student response: '07/07/52'
+incorrect birthday
+	Correct response: '08/20/2041'
+	Student response: '08/20/41'
+incorrect birthday
+	Correct response: '04/16/2065'
+	Student response: '04/16/65'
+incorrect birthday
+	Correct response: '12/07/2061'
+	Student response: '12/07/61'
+incorrect birthday
+	Correct response: '04/22/2079'
+	Student response: '04/22/79'
+incorrect birthday
+	Correct response: '03/09/2035'
+	Student response: '03/09/35'
+incorrect birthday
+	Correct response: '09/10/2089'
+	Student response: '09/10/89'
+incorrect birthday
+	Correct response: '12/04/2062'
+	Student response: '12/04/62'
+incorrect birthday
+	Correct response: '12/09/2065'
+	Student response: '12/09/65'
+incorrect birthday
+	Correct response: '12/28/2073'
+	Student response: '12/28/73'
+incorrect birthday
+	Correct response: '12/12/2053'
+	Student response: '12/12/53'
+incorrect birthday
+	Correct response: '06/24/2099'
+	Student response: '06/24/99'
+incorrect birthday
+	Correct response: '02/18/2094'
+	Student response: '02/18/94'
+incorrect birthday
+	Correct response: '03/01/2061'
+	Student response: '03/01/61'
+incorrect birthday
+	Correct response: '06/29/2039'
+	Student response: '06/29/39'
+incorrect birthday
+	Correct response: '03/26/2062'
+	Student response: '03/26/62'
+incorrect birthday
+	Correct response: '02/04/2075'
+	Student response: '02/04/75'
+incorrect birthday
+	Correct response: '05/20/2074'
+	Student response: '05/20/74'
+incorrect birthday
+	Correct response: '07/24/2041'
+	Student response: '07/24/41'
+incorrect birthday
+	Correct response: '06/26/2049'
+	Student response: '06/26/49'
+incorrect birthday
+	Correct response: '01/09/2086'
+	Student response: '01/09/86'
+incorrect birthday
+	Correct response: '06/01/2042'
+	Student response: '06/01/42'
+incorrect birthday
+	Correct response: '12/14/2089'
+	Student response: '12/14/89'
+incorrect birthday
+	Correct response: '11/20/2061'
+	Student response: '11/20/61'
+incorrect birthday
+	Correct response: '03/28/2048'
+	Student response: '03/28/48'
+incorrect birthday
+	Correct response: '04/15/2057'
+	Student response: '04/15/57'
+incorrect birthday
+	Correct response: '10/12/2059'
+	Student response: '10/12/59'
+incorrect birthday
+	Correct response: '11/08/2089'
+	Student response: '11/08/89'
+incorrect birthday
+	Correct response: '08/04/2067'
+	Student response: '08/04/67'
+incorrect birthday
+	Correct response: '11/06/2041'
+	Student response: '11/06/41'
+incorrect birthday
+	Correct response: '10/26/2082'
+	Student response: '10/26/82'
+incorrect birthday
+	Correct response: '09/28/2083'
+	Student response: '09/28/83'
+incorrect birthday
+	Correct response: '09/08/2037'
+	Student response: '09/08/37'
+incorrect birthday
+	Correct response: '02/07/2077'
+	Student response: '02/07/77'
+incorrect birthday
+	Correct response: '09/21/2035'
+	Student response: '09/21/35'
+incorrect birthday
+	Correct response: '06/30/2097'
+	Student response: '06/30/97'
+incorrect birthday
+	Correct response: '08/05/2067'
+	Student response: '08/05/67'
+incorrect birthday
+	Correct response: '03/15/2033'
+	Student response: '03/15/33'
+incorrect birthday
+	Correct response: '04/18/2096'
+	Student response: '04/18/96'
+incorrect birthday
+	Correct response: '02/18/2063'
+	Student response: '02/18/63'
+incorrect birthday
+	Correct response: '04/05/2044'
+	Student response: '04/05/44'
+incorrect birthday
+	Correct response: '06/28/2032'
+	Student response: '06/28/32'
+incorrect birthday
+	Correct response: '06/25/2051'
+	Student response: '06/25/51'
+incorrect birthday
+	Correct response: '03/03/2050'
+	Student response: '03/03/50'
+incorrect birthday
+	Correct response: '02/19/2035'
+	Student response: '02/19/35'
+incorrect birthday
+	Correct response: '07/13/2088'
+	Student response: '07/13/88'
+incorrect birthday
+	Correct response: '01/20/2099'
+	Student response: '01/20/99'
+incorrect birthday
+	Correct response: '02/19/2049'
+	Student response: '02/19/49'
+incorrect birthday
+	Correct response: '12/16/2049'
+	Student response: '12/16/49'
+incorrect birthday
+	Correct response: '10/01/2047'
+	Student response: '10/01/47'
+incorrect birthday
+	Correct response: '06/07/2062'
+	Student response: '06/07/62'
+incorrect birthday
+	Correct response: '11/15/2080'
+	Student response: '11/15/80'
+incorrect birthday
+	Correct response: '10/17/2034'
+	Student response: '10/17/34'
+incorrect birthday
+	Correct response: '03/18/2054'
+	Student response: '03/18/54'
+incorrect birthday
+	Correct response: '01/21/2052'
+	Student response: '01/21/52'
+incorrect birthday
+	Correct response: '12/06/2038'
+	Student response: '12/06/38'
+incorrect birthday
+	Correct response: '09/08/2037'
+	Student response: '09/08/37'
+incorrect birthday
+	Correct response: '05/29/2063'
+	Student response: '05/29/63'
+incorrect birthday
+	Correct response: '10/03/2030'
+	Student response: '10/03/30'
+incorrect birthday
+	Correct response: '06/05/2071'
+	Student response: '06/05/71'
+incorrect birthday
+	Correct response: '10/21/2092'
+	Student response: '10/21/92'
+incorrect birthday
+	Correct response: '10/09/2040'
+	Student response: '10/09/40'
+incorrect birthday
+	Correct response: '09/07/2064'
+	Student response: '09/07/64'
+incorrect birthday
+	Correct response: '02/26/2055'
+	Student response: '02/26/55'
+incorrect birthday
+	Correct response: '02/22/2054'
+	Student response: '02/22/54'
+incorrect birthday
+	Correct response: '12/20/2054'
+	Student response: '12/20/54'
+incorrect birthday
+	Correct response: '08/24/2035'
+	Student response: '08/24/35'
+incorrect birthday
+	Correct response: '01/01/2095'
+	Student response: '01/01/95'
+incorrect birthday
+	Correct response: '08/04/2079'
+	Student response: '08/04/79'
+incorrect birthday
+	Correct response: '10/30/2042'
+	Student response: '10/30/42'
+incorrect birthday
+	Correct response: '04/25/2064'
+	Student response: '04/25/64'
+incorrect birthday
+	Correct response: '09/03/2083'
+	Student response: '09/03/83'
+incorrect birthday
+	Correct response: '11/22/2069'
+	Student response: '11/22/69'
+incorrect birthday
+	Correct response: '10/06/2040'
+	Student response: '10/06/40'
+incorrect birthday
+	Correct response: '03/18/2055'
+	Student response: '03/18/55'
+incorrect birthday
+	Correct response: '01/29/2066'
+	Student response: '01/29/66'
+incorrect birthday
+	Correct response: '04/08/2059'
+	Student response: '04/08/59'
+incorrect birthday
+	Correct response: '04/17/2052'
+	Student response: '04/17/52'
+incorrect birthday
+	Correct response: '06/18/2085'
+	Student response: '06/18/85'
+incorrect birthday
+	Correct response: '06/20/2097'
+	Student response: '06/20/97'
+incorrect birthday
+	Correct response: '02/26/2039'
+	Student response: '02/26/39'
+incorrect birthday
+	Correct response: '08/05/2053'
+	Student response: '08/05/53'
+incorrect birthday
+	Correct response: '04/27/2081'
+	Student response: '04/27/81'
+incorrect birthday
+	Correct response: '04/22/2075'
+	Student response: '04/22/75'
+incorrect birthday
+	Correct response: '12/10/2049'
+	Student response: '12/10/49'
+incorrect birthday
+	Correct response: '04/16/2073'
+	Student response: '04/16/73'
+incorrect birthday
+	Correct response: '08/16/2049'
+	Student response: '08/16/49'
+incorrect birthday
+	Correct response: '06/04/2085'
+	Student response: '06/04/85'
+incorrect birthday
+	Correct response: '12/18/2070'
+	Student response: '12/18/70'
+incorrect birthday
+	Correct response: '06/18/2032'
+	Student response: '06/18/32'
+incorrect birthday
+	Correct response: '10/15/2041'
+	Student response: '10/15/41'
+incorrect birthday
+	Correct response: '05/28/2049'
+	Student response: '05/28/49'
+incorrect birthday
+	Correct response: '12/10/2087'
+	Student response: '12/10/87'
+incorrect birthday
+	Correct response: '06/02/2094'
+	Student response: '06/02/94'
+incorrect birthday
+	Correct response: '03/28/2074'
+	Student response: '03/28/74'
+incorrect birthday
+	Correct response: '05/16/2036'
+	Student response: '05/16/36'
+incorrect birthday
+	Correct response: '01/30/2056'
+	Student response: '01/30/56'
+incorrect birthday
+	Correct response: '05/06/2065'
+	Student response: '05/06/65'
+incorrect birthday
+	Correct response: '09/26/2050'
+	Student response: '09/26/50'
+incorrect birthday
+	Correct response: '02/04/2050'
+	Student response: '02/04/50'
+incorrect birthday
+	Correct response: '03/29/2045'
+	Student response: '03/29/45'
+incorrect birthday
+	Correct response: '10/02/2062'
+	Student response: '10/02/62'
+incorrect birthday
+	Correct response: '03/07/2088'
+	Student response: '03/07/88'
+incorrect birthday
+	Correct response: '08/29/2058'
+	Student response: '08/29/58'
+incorrect birthday
+	Correct response: '06/05/2031'
+	Student response: '06/05/31'
+incorrect birthday
+	Correct response: '08/20/2040'
+	Student response: '08/20/40'
+incorrect birthday
+	Correct response: '05/01/2035'
+	Student response: '05/01/35'
+incorrect birthday
+	Correct response: '05/11/2078'
+	Student response: '05/11/78'
+incorrect birthday
+	Correct response: '01/11/2049'
+	Student response: '01/11/49'
+incorrect birthday
+	Correct response: '11/27/2074'
+	Student response: '11/27/74'
+incorrect birthday
+	Correct response: '07/07/2033'
+	Student response: '07/07/33'
+incorrect birthday
+	Correct response: '07/02/2065'
+	Student response: '07/02/65'
+incorrect birthday
+	Correct response: '01/05/2069'
+	Student response: '01/05/69'
+incorrect birthday
+	Correct response: '07/22/2000'
+	Student response: '07/22/00'
+incorrect birthday
+	Correct response: '11/04/2039'
+	Student response: '11/04/39'
+incorrect birthday
+	Correct response: '05/06/2081'
+	Student response: '05/06/81'
+incorrect birthday
+	Correct response: '12/31/2097'
+	Student response: '12/31/97'
+incorrect birthday
+	Correct response: '12/29/2066'
+	Student response: '12/29/66'
+incorrect birthday
+	Correct response: '08/04/2080'
+	Student response: '08/04/80'
+incorrect birthday
+	Correct response: '01/25/2078'
+	Student response: '01/25/78'
+incorrect birthday
+	Correct response: '05/13/2071'
+	Student response: '05/13/71'
+incorrect birthday
+	Correct response: '06/24/2072'
+	Student response: '06/24/72'
+incorrect birthday
+	Correct response: '05/08/2090'
+	Student response: '05/08/90'
+Score += 19
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

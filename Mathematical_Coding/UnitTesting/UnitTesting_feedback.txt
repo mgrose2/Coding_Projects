@@ -1,0 +1,49 @@
+10/11/18 17:33
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/15/18 16:40
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/22/18 14:20
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/22/18 23:05
+
+specs.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+10/24/18 14:52
+
+Problem 1 (5 points):
+smallest_factor(n) failed for n = 25
+smallest_factor(n) failed for n = 323
+Score += 3
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Coverage (20 points):
+Score += 20
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

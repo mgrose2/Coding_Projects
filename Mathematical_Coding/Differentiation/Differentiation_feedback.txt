@@ -1,0 +1,94 @@
+01/25/19 16:04
+
+Problem 1 (5 points):prob1() func does not accept NumPy arrays!
+TypeError: 'NoneType' object is not callable
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob7()
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+01/28/19 19:17
+
+Problem 1 (5 points):prob1() func does not accept NumPy arrays!
+TypeError: 'NoneType' object is not callable
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (5 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob7()
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+02/06/19 13:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

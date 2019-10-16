@@ -1,0 +1,170 @@
+09/13/18 15:41
+
+Problem 1 (10 points):
+AttributeError: 'Backpack' object has no attribute 'dump'
+
+Problem 2 (10 points):
+AttributeError: type object 'Backpack' has no attribute 'dump'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(47-32j)'
+	Student response: '(47--32j)'
+NameError: name 'math' is not defined
+
+Code Quality (5 points):
+Add docstrings to all functions
+Score += 4
+
+Total score: 14/50 = 28.0%
+
+
+Comments:
+	Good start. Come to office hours if you need help
+
+-------------------------------------------------------------------------------
+
+09/14/18 17:33
+
+Problem 1 (10 points):
+AttributeError: 'Backpack' object has no attribute 'dump'
+
+Problem 2 (10 points):
+AttributeError: type object 'Backpack' has no attribute 'dump'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(29-14j)'
+	Student response: '(29--14j)'
+NameError: name 'math' is not defined
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+
+Comments:
+	Good start!
+
+-------------------------------------------------------------------------------
+
+09/17/18 17:39
+
+Problem 1 (10 points):
+AttributeError: 'Backpack' object has no attribute 'dump'
+
+Problem 2 (10 points):
+AttributeError: type object 'Backpack' has no attribute 'dump'
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(38-30j)'
+	Student response: '(38--30j)'
+NameError: name 'math' is not defined
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 15/50 = 30.0%
+
+
+Comments:
+	If you need help, come to office hours
+
+-------------------------------------------------------------------------------
+
+09/19/18 17:14
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Make e and f lowercase
+Make e and f lowercase
+Jetpack.__init__() has no docstring.
+Score += 7
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+ComplexNumber.__str__() failed for b < 0
+	Correct response: '(-37-33j)'
+	Student response: '(-37--33j)'
+NameError: name 'math' is not defined
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 32/50 = 64.0%
+
+
+Comments:
+	Final pull tomorrow at 9AM
+
+-------------------------------------------------------------------------------
+
+09/20/18 00:02
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+
+09/20/18 11:06
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+

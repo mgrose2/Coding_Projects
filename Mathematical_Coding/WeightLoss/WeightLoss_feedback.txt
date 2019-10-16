@@ -1,0 +1,68 @@
+09/24/19 14:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+I think the arrows on your top plot are incorrect, but it's hard to see; please make these square plots. Also, you need to have the fixed points clearly marked
+Score += 8
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5 and 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+there shouldn't be any discontinuity/jump in the middle
+Score += 4
+
+Code Quality (5 points):
+make sure all plots (even the phase ones) have titles and plot labels
+Score += 4
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+
+Comments:
+	please reverse the scores/feedback from problems 3 and 4
+
+-------------------------------------------------------------------------------
+
+09/26/19 17:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problems 5 and 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Extra Credit (10 points):
+Score += 10
+
+Total score: 60/60 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

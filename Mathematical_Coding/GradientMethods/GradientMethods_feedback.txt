@@ -1,0 +1,147 @@
+02/22/19 14:12
+
+gradient_methods.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/22/19 14:13
+
+gradient_methods.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/22/19 14:23
+
+gradient_methods.py has not been modified yet
+
+-------------------------------------------------------------------------------
+
+02/22/19 14:48
+
+Problem 1 (10 points):
+TypeError: 'numpy.int64' object is not callable
+
+Problem 2 (10 points):
+ValueError: too many values to unpack (expected 3)
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+no comments
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/26/19 15:04
+
+Problem 1 (10 points):
+TypeError: 'numpy.int64' object is not callable
+
+Problem 2 (10 points):
+ValueError: too many values to unpack (expected 3)
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+no comments
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/27/19 12:38
+
+Problem 1 (10 points):
+TypeError: 'numpy.int64' object is not callable
+
+Problem 2 (10 points):
+ValueError: too many values to unpack (expected 3)
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+no comments
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/28/19 09:29
+
+Problem 1 (10 points):
+steepest_descent() failed on the Rosenbrock function (Df(x) != 0)
+	Correct response: [0 0]
+	Student response: [ 0.  0.]
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+UnboundLocalError: local variable 'converged' referenced before assignment
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5 and 6 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+03/05/19 15:08
+
+Problem 1 (10 points):
+steepest_descent() failed on the Rosenbrock function (Df(x) != 0)
+	Correct response: [0 0]
+	Student response: [ 0.  0.]
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+UnboundLocalError: local variable 'converged' referenced before assignment
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5 and 6 (10 points):
+TypeError: Invalid return type 'NoneType'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+

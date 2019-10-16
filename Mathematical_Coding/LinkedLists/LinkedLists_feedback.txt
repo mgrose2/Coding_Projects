@@ -1,0 +1,198 @@
+09/27/18 22:01
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Make sure to comment all your code
+Score += 0
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------------------------------
+
+09/28/18 17:05
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Add comments to your code
+Score += 0
+
+Total score: 45/50 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+10/01/18 17:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+10/03/18 15:10
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+10/03/18 21:06
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
+10/04/18 10:12
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (7 points):
+Score += 7
+
+Problem 5 (8 points):
+Score += 8
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

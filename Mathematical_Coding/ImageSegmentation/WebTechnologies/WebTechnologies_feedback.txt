@@ -1,0 +1,45 @@
+09/17/19 17:32
+
+Problem 1 (10 points):
+use plt tight layout or rotation in labels to make visible
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+Score += 0
+
+Code Quality (10 points):
+Score += 10
+
+Total score: 28/50 = 56.0%
+
+
+Comments:
+	need to remove Problem X Incommplete for the test driver to work, resubmit for regrade with that fix
+
+-------------------------------------------------------------------------------
+
+09/18/19 14:16
+
+Problem 1 (10 points):
+same score as last time
+Score += 8
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+Score += 20
+
+Code Quality (10 points):
+regrade
+Score += 8
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

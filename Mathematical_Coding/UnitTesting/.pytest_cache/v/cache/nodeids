@@ -1,0 +1,17 @@
+[
+  "test_specs.py::test_add",
+  "test_specs.py::test_divide",
+  "test_specs.py::test_smallest_factor",
+  "test_specs.py::test_month_length",
+  "test_specs.py::test_operate",
+  "test_specs.py::test_fraction_init",
+  "test_specs.py::test_fraction_str",
+  "test_specs.py::test_fraction_float",
+  "test_specs.py::test_fraction_eq",
+  "test_specs.py::test_fraction_add",
+  "test_specs.py::test_fraction_sub",
+  "test_specs.py::test_fraction_mul",
+  "test_specs.py::test_fraction_trudiv",
+  "test_specs.py::test_count_sets",
+  "test_specs.py::test_is_set"
+]

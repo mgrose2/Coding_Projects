@@ -1,0 +1,3 @@
+[3]   Running                 ./script1.sh &
+[4]-  Running                 ./script2.sh &
+[5]+  Running                 ./script3.sh &

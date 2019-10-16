@@ -1,0 +1,95 @@
+02/01/19 18:12
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+newton() failed to converge for f(x) = x^(1/3), x0 = .1, alpha = 0.32
+Score += 3
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 13/50 = 26.0%
+
+-------------------------------------------------------------------------------
+
+02/04/19 19:23
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+newton() failed to converge for f(x) = x^(1/3), x0 = .1, alpha = 0.32
+Score += 3
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (5 points):
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+Problem 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Code Quality (5 points):
+not implemented
+Score += 0
+
+Total score: 13/50 = 26.0%
+
+-------------------------------------------------------------------------------
+
+02/05/19 11:36
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+TypeError: unsupported operand type(s) for *: 'NoneType' and 'float'
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+Score += 10
+
+Code Quality (5 points):
+add some comments
+Score += 0
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+

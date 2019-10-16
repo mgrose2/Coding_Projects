@@ -1,0 +1,51 @@
+01/15/19 09:58
+
+Problem 1 (5 points):
+plot title
+Score += 4
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Problems 5-8 (25 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 14/50 = 28.0%
+
+-------------------------------------------------------------------------------
+
+01/18/19 11:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problems 5-8 (25 points):
+Score += 25
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
